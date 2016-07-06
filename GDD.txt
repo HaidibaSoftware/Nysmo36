@@ -12,29 +12,39 @@ GENRE: Puzzler, Top-Down, Action
 
 THEME :	Robbery, Stealth, , Breaking and entering
 
-SETTING : 
+SETTING : 20th century american Megalopolis, casino like in teh moviz (jems bond, oshan 111213, nysm)
 
 		  
 ====================		  
 	  GAMEPLAY	
 ====================
 
-	- Investigative phase - scout target, hack security systems, 
+	* Investigative phase - scout target, hack security systems, 
 	
-	- Planning phase
+	* Planning phase
 		2 blueprint styles (matrix, blueprint)
 		
-	- Execution phase
+	* Execution phase
 		
-	
-	Heist elements:
-	guards ()
-	
-	KREW:
+		KREW:
 	Hackers - investigative/planning (brute force your way in sec. systems.)
 	Con-artists - investigative (gain access to security systems undetected, leave less traces than hackers)
 	Hitmen/bodyguards gorilla*
+	Contorsionist gymnast fuckboii/grill
 	
+	
+	Heist elements:
+		- guards ()
+		- roomz
+		- safes
+		- lazors
+		- 
+
+	
+
+	Disguise:
+		- takes time to change
+		- only allowed to enter room based on guise // gay, frustrant
 	
 ====================
 	   SCORING
