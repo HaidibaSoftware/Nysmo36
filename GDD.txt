@@ -1,0 +1,54 @@
+====================
+GAME DESIGN DOCUMENT
+====================
+
+MOD NAME : Nysm36 (Now you see me 11 12 13)
+
+SINGLEPLAYER : YES
+
+MULTIPLAYER : YES 
+
+GENRE: Puzzler, Top-Down, Action
+
+THEME :	Robbery, Stealth, , Breaking and entering
+
+SETTING : 
+
+		  
+====================		  
+	  GAMEPLAY	
+====================
+
+	- Investigative phase - scout target, hack security systems, 
+	
+	- Planning phase
+		2 blueprint styles (matrix, blueprint)
+		
+	- Execution phase
+		
+	
+	Heist elements:
+	guards ()
+	
+	KREW:
+	Hackers - investigative/planning (brute force your way in sec. systems.)
+	Con-artists - investigative (gain access to security systems undetected, leave less traces than hackers)
+	Hitmen/bodyguards gorilla*
+	
+	
+====================
+	   SCORING
+====================
+	
+	For "ideas man", "The Architect" 
+		- least time spent
+		- least money used
+		- most stealthy (no camera, no obs, no traces > better score)
+		- notoriety?
+		
+		
+====================
+	   STORY
+====================
+
+Once upon a time vote TRUMP 2016 lesduit lesgou oshit her kamm das Junge Mann hat eine Große Schwanz und niemals hat er nichts die Schreibstoffe geheimliches erreicht.	   
